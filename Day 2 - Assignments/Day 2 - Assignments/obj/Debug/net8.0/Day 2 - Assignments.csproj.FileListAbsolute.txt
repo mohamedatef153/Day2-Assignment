@@ -1,0 +1,14 @@
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\bin\Debug\net8.0\Day 2 - Assignments.exe
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\bin\Debug\net8.0\Day 2 - Assignments.deps.json
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\bin\Debug\net8.0\Day 2 - Assignments.runtimeconfig.json
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\bin\Debug\net8.0\Day 2 - Assignments.dll
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\bin\Debug\net8.0\Day 2 - Assignments.pdb
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.AssemblyInfoInputs.cache
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.AssemblyInfo.cs
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.csproj.CoreCompileInputs.cache
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.dll
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\refint\Day 2 - Assignments.dll
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.pdb
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\Day 2 - Assignments.genruntimeconfig.cache
+D:\Advanced C#\Day3\Day3\Day 2 - Assignments\Day 2 - Assignments\obj\Debug\net8.0\ref\Day 2 - Assignments.dll
